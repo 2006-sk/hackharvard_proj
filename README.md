@@ -1,5 +1,5 @@
 # ScamShield – Real-Time Call Scam Detection System
-
+ 
 ## Overview
 
 ScamShield is a real-time scam detection system that analyzes live phone calls and assigns a risk score based on speech patterns and conversational signals. The system is designed to assist users during calls by identifying potential scams as they happen, rather than after the damage is done.
